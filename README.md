@@ -1,3 +1,2 @@
 # novel
-なかの人即ち中二病につき。ただ単に小説のモドキを書き連ねるだけ。
-
+ref : test branch or wiki
