@@ -1,16 +1,18 @@
 # 自己紹介
+これは、経歴書生成のためのメモである。
 
 # 基本情報
 
 | 項目       | 内容                                                           |
+| -- | --- |
 | 名前       | 池上 蒔典                                                      |
 | 住所       | ヒ・ミ・ツ■                                                   |
 | 携帯電話   | 080 6997 1439                                                  |
 | 調整領域   | === === === === === === === ===                                |
 | 電文打電   | [maau3p@gmail.com](maau3p@gmail.com)                           |
 | 個体概説   | [https://i-makinori.github.io/](https://i-makinori.github.io/) |
-| 青い鳥     | [https://twitter.com/i_makinori](@i_makinori)                  |
-| 設計図共有 | [https://github.com/i-makinori](i-makinori)                    |
+| 青い鳥     | [@i_makinori](https://twitter.com/i_makinori)                |
+| 設計図共有 | [i-makinori](https://github.com/i-makinori)                  |
 
 
 # 学歴について
@@ -18,6 +20,7 @@
 ### 表面上の事象軸P
 
 | 時w       | 事象p                         |
+| -- | -- | 
 | 2015年3月 | 長野県伊那市立春富中学校 卒業 |
 | 2015年4月 | 国立長野高専 入学             |
 | 2018年1月 | 同 休学                       |
